@@ -9,9 +9,9 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "@es-js/vite-plugin-esjs": "^0.0.15",
+    "@es-js/vite-plugin-esjs": "^0.1.0-beta.0",
     "vavite": "^3.0.0",
-    "vite": "^5.0.0"
+    "vite": "^5.2.11"
   },
   "dependencies": {
     "express": "^4.18.2"
